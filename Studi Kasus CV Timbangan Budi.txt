@@ -1,0 +1,9 @@
+Studi Kasus
+
+CV Timbangan Budi merupakan pabrik dan showroom penjualan timbangan yang berlokasi di jalan Raya Soekarno Hatta Km.30, Bawen, Kabupaten Semarang. 
+Dari data 3 bulan terakhir, permintaan terbesar  60 buah timbangan dan permintaan terkecil yaitu 5 buah timbangan. 
+Persediaan barang yang berada di showroom terbanyak 15 buah timbangan dan persediaan paling sedikit hanya 1 buah. 
+CV timbangan budi dapat membuat timbangan paling banyak 35 buah dan paling sedikit 5 timbangan
+Berapa banyak timbangan yang harus diproduksi setiap 2 minggu, apabila terdapat pesanan 40, dan persediaan yang berada di showroom 2 buah timbangan ?
+
+
